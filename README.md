@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**BrennaLepage/BrennaLepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brenna Lepage.  I am currently a student studying [Interactive Design and Technology](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) at Saskpolytech, Saskatoon.  My dream job is to be a graphic designer/digital artist. 👩🏼‍💻🎨
 
-Here are some ideas to get you started:
+- My website [brennalepage.com](http://brennalepage.com/)
+- My LinkedIn profile [brennas_linkedin](https://www.linkedin.com/in/brenna-lepage/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Skills
+- Microsoft 365
+- Lightroom
+- Photoshop
+- Adobe Illustrator
+- Figma
+- Audition
+- Premiere Pro
+- HTML, CSS, Javascript
+- Visual Studio Code
+- UX/UI
+
+## A little bit about me...
+- I love art and music 🩷🎶
+- Cats > dogs 🐈
+- Bonified Stay 🤟
+- Loving Audition! 🎧
